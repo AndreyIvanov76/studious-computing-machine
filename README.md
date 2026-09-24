@@ -1,5 +1,6 @@
 # studious-computing-machine
 ## My Awesome Project
+## My Super Project
 
 -Initialize the project repository
 -Add the main feature
