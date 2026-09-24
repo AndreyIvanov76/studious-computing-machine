@@ -1,5 +1,5 @@
 # studious-computing-machine
-## My Project Plan
+## My Super Project
 
 -Initialize the project repository
 -Add the main feature
